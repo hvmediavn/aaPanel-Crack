@@ -1,6 +1,6 @@
 # aaPanel Tools
 
-[English](https://github.com/AaronYES/aaPanel/blob/main/README.md)&nbsp;|&nbsp;[简体中文](https://github.com/AaronYES/aaPanel/blob/main/README_zh.md)
+[English](https://github.com/hvmediavn/aaPanel-Crack/blob/main/README.md)&nbsp;|&nbsp;[简体中文](https://github.com/hvmediavn/aaPanel-Crack/blob/main/README_zh.md)
 
 This tool is available for CentOS/Debian/Ubuntu clients for some of your own needs.
 
@@ -19,7 +19,7 @@ This tool is available for CentOS/Debian/Ubuntu clients for some of your own nee
 ## Usage
 
 ~~~
-wget https://raw.githubusercontent.com/AaronYES/aaPanel/main/script/aapanel.sh  -O aapanel.sh && chmod +x aapanel.sh && clear && ./aapanel.sh
+wget https://raw.githubusercontent.com/hvmediavn/aaPanel-Crack/main/script/aapanel.sh  -O aapanel.sh && chmod +x aapanel.sh && clear && ./aapanel.sh
 ~~~
 
 
